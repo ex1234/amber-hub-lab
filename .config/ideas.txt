@@ -1,1 +1,2 @@
 ﻿memo ea96508bbe5b
+list: [4,7,2]
